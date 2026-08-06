@@ -44,6 +44,17 @@
   margin-bottom: 1rem;
 }
 
+/* Make the navbar logo slightly larger while keeping mobile spacing tidy. */
+.navbar-brand img {
+  max-height: 56px;
+}
+
+@media (max-width: 991px) {
+  .navbar-brand img {
+    max-height: 44px;
+  }
+}
+
 
 .card-grid {
   display: grid;
