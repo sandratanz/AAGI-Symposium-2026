@@ -19,9 +19,33 @@ website:
         #href: data/20260513_AAGISymposium_schedule_v4.xlsx
         #href: "https://live.com"
       - text: "Workshops"
-        href: workshops.qmd
+        menu:
+          - text: "All Workshops"
+            href: workshops.qmd
+          - text: "Workshop 1"
+            href: workshop-1.qmd
+          - text: "Workshop 2"
+            href: workshop-2.qmd
+          - text: "Workshop 3"
+            href: workshop-3.qmd
+          - text: "Workshop 4"
+            href: workshop-4.qmd
       - text: "Posters"
-        href: posters.qmd
+        menu:
+          - text: "All Posters"
+            href: posters.qmd
+          - text: "Posters Theme 1"
+            href: posters-theme-1.qmd
+          - text: "Posters Theme 2"
+            href: posters-theme-2.qmd
+          - text: "Posters Theme 3"
+            href: posters-theme-3.qmd
+          - text: "Posters Theme 4"
+            href: posters-theme-4.qmd
+          - text: "Posters Theme 5"
+            href: posters-theme-5.qmd
+          - text: "Posters Theme 6"
+            href: posters-theme-6.qmd
       - text: "HDR Networking"
         href: hdr.qmd
       - text: "Participants"

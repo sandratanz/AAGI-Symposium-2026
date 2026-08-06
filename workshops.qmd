@@ -2,4 +2,27 @@
 title: "Workshops"
 ---
 
-Workshops for the 2026 AAGI Symposium.
+Explore the four symposium workshops below.
+
+<div class="card-grid">
+
+<a class="nav-card" href="workshop-1.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 1">
+<h3>Workshop 1</h3>
+<p>Workshop details, materials, and resources.</p>
+</a>
+<a class="nav-card" href="workshop-2.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 2">
+<h3>Workshop 2</h3>
+<p>Workshop details, materials, and resources.</p>
+</a>
+<a class="nav-card" href="workshop-3.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 3">
+<h3>Workshop 3</h3>
+<p>Workshop details, materials, and resources.</p>
+</a>
+<a class="nav-card" href="workshop-4.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 4">
+<h3>Workshop 4</h3>
+<p>Workshop details, materials, and resources.</p>
+</a> </div>

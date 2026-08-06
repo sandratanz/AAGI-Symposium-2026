@@ -28,5 +28,35 @@
   },
   "resources.qmd": {
     "resources.html": "5a730264"
+  },
+  "workshop-4.qmd": {
+    "workshop-4.html": "7fff2723"
+  },
+  "workshop-2.qmd": {
+    "workshop-2.html": "ea6be656"
+  },
+  "workshop-3.qmd": {
+    "workshop-3.html": "7d6695f5"
+  },
+  "workshop-1.qmd": {
+    "workshop-1.html": "ec97f257"
+  },
+  "posters-theme-1.qmd": {
+    "posters-theme-1.html": "c33e3542"
+  },
+  "posters-theme-2.qmd": {
+    "posters-theme-2.html": "5045ac1c"
+  },
+  "posters-theme-3.qmd": {
+    "posters-theme-3.html": "a7b6d059"
+  },
+  "posters-theme-6.qmd": {
+    "posters-theme-6.html": "1289cf9a"
+  },
+  "posters-theme-4.qmd": {
+    "posters-theme-4.html": "01f45625"
+  },
+  "posters-theme-5.qmd": {
+    "posters-theme-5.html": "c4097c9a"
   }
 }
