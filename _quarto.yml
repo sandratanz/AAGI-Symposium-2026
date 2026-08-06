@@ -1,0 +1,61 @@
+project:
+  type: website
+
+
+website:
+  title: ""
+  navbar:
+    background: dark #primary #light, dark, or custom hex code
+    search: true
+    logo: images/AAGI_logo_white.svg
+    left:
+      - text: "Home"
+        href: index.qmd
+      # - text: "About"
+      #   href: about.qmd
+      - text: "Program"
+        href: program.qmd
+        #href: data/20260513_AAGISymposium_schedule_v4.xlsx
+        #href: "https://live.com"
+      - text: "Workshops"
+        href: workshops.qmd
+      - text: "Posters"
+        href: posters.qmd
+      - text: "HDR Networking"
+        href: hdr.qmd
+      - text: "Participants"
+        href: participants.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Contact"
+        href: contact.qmd
+      # - text: "More"
+      #   menu:
+      #   - text: "Contact"
+      #     href: contact.qmd
+      #   - text: "Talks"
+      #     href: talks.qmd
+    right:
+      - icon: github
+        href: https://github.com/AAGI-AUS
+      # - icon: AAGI
+      #   href: https://aagi.org
+      # - icon: GRDC
+      #   href: https://grdc.org 
+      # - icon: CU
+      #   href: https://curtin.edu.au
+      # - icon: AU
+      #   href: https://adelaide.edu.au
+      # - icon: UQ
+      #   href: https://uq.edu.au
+  page-footer: 
+    background: light
+    center: "![](/images/AAGI_GRDC_Strategic_Partners_Block_2026_(Portrait).png){.bottom-banner}"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+

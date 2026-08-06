@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "d6c169c0"
+  },
+  "about.qmd": {
+    "about.html": "d3b560d9"
+  },
+  "posters.qmd": {
+    "posters.html": "238a7460"
+  },
+  "workshops.qmd": {
+    "workshops.html": "7e98ef97"
+  },
+  "contact.qmd": {
+    "contact.html": "c5b081c5"
+  },
+  "schedule.qmd": {
+    "schedule.html": "98693a51"
+  },
+  "program.qmd": {
+    "program.html": "eab975a0"
+  },
+  "participants.qmd": {
+    "participants.html": "353ec8c5"
+  },
+  "hdr.qmd": {
+    "hdr.html": "5468d4df"
+  },
+  "resources.qmd": {
+    "resources.html": "5a730264"
+  }
+}
