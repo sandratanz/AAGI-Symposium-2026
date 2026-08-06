@@ -79,7 +79,7 @@ Access additional symposium materials, links and downloads shared throughout the
 <a class="nav-card" href="hdr.qmd">
 <img src="images/hdr_1.jpg" class="card-img" alt="HDR Networking">
 <h3>HDR Networking</h3>
-<p>Find information and resources for the Higher Degree by Research networking session, including mentoring and career development activities.</p>
+<p>Find information and resources for the Higher Degree by Research Networking Session, including mentoring and career development activities.</p>
 </a>
 <a class="nav-card" href="participants.qmd">
 <img src="images/participants_1.jpg" class="card-img" alt="Participants">

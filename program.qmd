@@ -20,7 +20,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **13:00 - 14:00** | _Workshop cont._ | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
 | **14:00 - 15:30** | _Workshop cont._ | **Industry/Grower Panel** | **Talks: ANU/Guests** | 🥡 Take-away Lunch |
 | **15:30 - 16:00** | _Workshop cont._ | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 18:30** | | 📊 **Poster Session** | 👭 **HDR & Networking** | |
+| **16:00 - 18:30** | | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
 
 ## Daily Schedule
@@ -60,7 +60,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: ANU / Guests** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 18:30** | 👭 **HDR & Networking** | Murray Room |
+| **16:00 - 18:30** | 👭 **HDR Networking Session** | Murray Room |
 | **18:30 - 20:30** | 🍽️ **Symposium Dinner** | *TBA (Offsite Venue)* |
 
 ### Day 3: Thursday 12/11
@@ -75,21 +75,3 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 
 :::
 
-
-
-<!-- 
-::: {.callout-note appearance="simple"}
-📍 **Venue Note:** Most symposium sessions are held in the **Murray Room**. Sessions held in alternative locations are explicitly marked below.
-:::
-
-| Time Block | Mon 9/11 (Day 0) | Tue 10/11 (Day 1) | Wed 11/11 (Day 2) | Thu 12/11 (Day 3) |
-|:---|:---|:---|:---|:---|
-| **08:30 - 09:00** | | Opening / GRDC | | |
-| **09:00 - 10:30** | | Talks: CU | Talks: UQ | Talks: AU |
-| **10:30 - 11:00** | | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
-| **11:00 - 13:00** | **Workshop (Scott)** | **Workshop 1a**<br>_Murray Room_<br><br>**Workshop 1b**<br>_*(Alternative Room)*_ | **Workshop 2a**<br>_Murray Room_<br><br>**Workshop 2b**<br>_*(Alternative Room)*_ | **Workshop 3** |
-| **13:00 - 14:00** | _Workshop cont._ | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
-| **14:00 - 15:30** | _Workshop cont._ | Industry/Grower Panel | Talks: ANU/Guests | 🥡 Take-away Lunch |
-| **15:30 - 16:00** | | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 18:30** | | 🔄 Poster Session | 👥 HDR & Networking | |
-| **18:30 - 20:30** | 🥂 **Welcome Mixer**<br>_*(Rooftop Terrace)*_ | | 🍽️ **Symposium Dinner**<br>_*(Offsite Venue)*_ | |  -->
