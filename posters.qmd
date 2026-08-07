@@ -9,7 +9,9 @@ title: "Posters"
 ### Poster Submission Portal
 Are you a presenter? Submit your high-resolution poster files using the secure Google Form portal. 
 
-**Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF or PNG.
+<!-- **Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF.
+
+**File Name:** Please use the following format for your poster file name: `Theme[1-6]_LastName_Initial.pdf` (e.g., Theme1_Smith_J.pdf). -->
 
 **Deadline:** 20th October 2027.
 <br>
@@ -21,31 +23,45 @@ Are you a presenter? Submit your high-resolution poster files using the secure G
 
 
 ## Poster Guidelines
-
 We encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight achievements, and foster discussion, collaboration, and networking across the AAGI community.
 
-### Submission deadline
+### Submission 
 
-**20 October 2027**. This deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.
+**Deadline:** **20 October 2027**
+
+Please submit your poster by this date to allow sufficient time for printing in Perth and ensure it is ready for display at the symposium.
+
+**File format:** PDF
+
+**File naming:** Please use the following format: [2026AAGISymposium_poster_LastName_Initial.pdf]{style="color: navy;"}
+
+<!-- - Example: `2026AAGISymposium_poster_Smith_J.pdf` -->
+
+- Example: [2026AAGISymposium_poster_Smith_J.pdf]{style="color: navy;"}
+
 
 ### Submission portal
 Please submit a PDF version of your poster via the secure Google Form portal.
 During submission, you will be asked to select a topic area. This will help us organise posters into related themes and support the planning of the poster session.
+
 
 ### Poster limit
 Participants are generally limited to one poster per person. Where a project involves multiple contributors, collaborative group posters are encouraged.
 
 ### Poster content
 Posters should clearly communicate the key aspects of your work, including:
-•	The research, project, tool, or area of work being presented.
-•	The problem, question, or objective being addressed.
-•	The methods, approach, or workflow used.
-•	Key findings, outcomes, or expected impacts (where available).
-•	Contact details to enable follow-up discussions and collaboration.
+
+- The research, project, tool, or area of work being presented.
+- The problem, question, or objective being addressed.
+- The methods, approach, or workflow used.
+- Key findings, outcomes, or expected impacts (where available).
+- Contact details to enable follow-up discussions and collaboration.
 
 ### Poster format
-•	**Size:** A0 (841 mm wide × 1189 mm high)
-•	**Orientation:** Portrait
+
+- **Size:** A0 (841 mm wide × 1189 mm high)
+- **Orientation:** Portrait
+
 Posters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.
 
 ### QR code
