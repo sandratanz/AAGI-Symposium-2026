@@ -47,7 +47,9 @@ Are you a presenter? Submit your high-resolution poster files using the secure G
 **Deadline:** 20th October 2027.
 <br>
 
-[Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"}
+<!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
+<!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-dark .btn-lg role="button" target="_blank"} -->
+[Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 :::
 
 
