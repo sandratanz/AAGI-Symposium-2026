@@ -35,6 +35,23 @@ Welcome to the official website of the **2026 Australian Analytics for the Austr
 
 The annual AAGI Symposium brings together researchers, students and industry collaborators from across Australia to share research, develop new collaborations, and explore the latest advances in data analytics for the grains industry. The symposium provides an opportunity to showcase innovative research, exchange ideas, learn new tools and methods, and strengthen the AAGI community. This year's program also includes the inaugural AAGI Awards, recognising outstanding contributions from AAGI members.
 
+
+
+<!-- Add this banner section right below your main intro text -->
+::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+### Poster Submission Portal
+Are you a presenter? Submit your high-resolution poster files using the secure Google Form portal. 
+
+**Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF or PNG.
+
+**Deadline:** 20th October 2027.
+<br>
+
+[Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"}
+:::
+
+
+
 ## Explore the Symposium
 
 This website is your central hub before, during and after the symposium.

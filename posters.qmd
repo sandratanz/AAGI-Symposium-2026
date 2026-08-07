@@ -2,7 +2,63 @@
 title: "Posters"
 ---
 
-Explore poster presentations by theme.
+
+
+<!-- Add this banner section right below your main intro text -->
+::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+### Poster Submission Portal
+Are you a presenter? Submit your high-resolution poster files using the secure Google Form portal. 
+
+**Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF or PNG.
+
+**Deadline:** 20th October 2027.
+<br>
+
+[Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"}
+:::
+
+
+## Poster Guidelines
+
+We encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight achievements, and foster discussion, collaboration, and networking across the AAGI community.
+
+### Submission deadline
+
+**20 October 2027**. This deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.
+
+### Submission portal
+Please submit a PDF version of your poster via the secure Google Form portal.
+During submission, you will be asked to select a topic area. This will help us organise posters into related themes and support the planning of the poster session.
+
+### Poster limit
+Participants are generally limited to one poster per person. Where a project involves multiple contributors, collaborative group posters are encouraged.
+
+### Poster content
+Posters should clearly communicate the key aspects of your work, including:
+•	The research, project, tool, or area of work being presented.
+•	The problem, question, or objective being addressed.
+•	The methods, approach, or workflow used.
+•	Key findings, outcomes, or expected impacts (where available).
+•	Contact details to enable follow-up discussions and collaboration.
+
+### Poster format
+•	**Size:** A0 (841 mm wide × 1189 mm high)
+•	**Orientation:** Portrait
+Posters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.
+
+### QR code
+Each poster must include a QR code placeholder, which will be used to link to a digital version of the poster. A minimum QR code size of 2 × 2 cm is recommended to ensure it can be scanned easily.
+
+### Short poster presentations
+PhD students will be required to deliver a brief 3–5 minute “elevator pitch” alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session.
+Subject to available time, researchers who opt in may also be invited to give a short poster presentation.
+
+### Poster awards
+Poster awards will be presented at the conclusion of the symposium. Further details regarding award categories, judging criteria, and assessment processes will be provided closer to the event.
+
+
+
+## Explore Posters by Theme
 
 <div class="card-grid">
 
@@ -36,3 +92,5 @@ Explore poster presentations by theme.
 <h3>Posters Theme 6</h3>
 <p>Poster listings and resources for theme 6.</p>
 </a> </div>
+
+
