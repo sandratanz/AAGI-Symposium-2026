@@ -4,7 +4,8 @@ title: "Workshops"
 
 Explore the four symposium workshops below.
 
-<div class="card-grid">
+<!-- Choose number of nav cards per row (3 or 2) based on the number of workshops you have. If you have 4 workshops, use 2 per row. If you have 6 workshops, use 3 per row. -->
+<div class="card-grid card-grid-two">
 
 <a class="nav-card" href="workshop-1.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshop 1">

@@ -42,7 +42,7 @@ The annual AAGI Symposium brings together researchers, students and industry col
 ### Poster Submission Portal
 Are you a presenter? Submit your high-resolution poster files using the secure Google Form portal. 
 
-<!-- **Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF or PNG.
+<!-- **Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF.
 
 **File Name:** Please use the following format for your poster file name: `Theme[1-6]_LastName_Initial.pdf` (e.g., Theme1_Smith_J.pdf). -->
 
