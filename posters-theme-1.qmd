@@ -2,14 +2,11 @@
 title: "Posters Theme 1"
 ---
 
-Posters for theme 1 are listed below.
-
 ## Posters
 
-### Sandra Tanz
-
-[Open poster PDF](submitted-posters/poster-theme-1/poster_theme1_TanzS%20-%20Sandra%20Tanz.pdf)
-
-<object data="submitted-posters/poster-theme-1/poster_theme1_TanzS%20-%20Sandra%20Tanz.pdf" type="application/pdf" width="100%" height="900px">
-	<p>Your browser could not display the PDF inline. Use the link above to open it.</p>
-</object>
+<div class="poster-gallery">
+<div class="poster-card">
+  <img src="submitted-posters/poster-theme-1/generated-images/PosterTheme1_TanzSandra.png" alt="Poster by Sandra Tanz" />
+  <p>Sandra Tanz</p>
+</div>
+</div>

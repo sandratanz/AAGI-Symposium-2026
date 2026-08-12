@@ -95,6 +95,34 @@
   line-height: 1.5;
 }
 
+.poster-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.poster-card {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.poster-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.poster-card p {
+  margin: 0.75rem 0 0;
+  font-weight: 600;
+}
+
 @media (max-width: 900px) {
   .card-grid {
     grid-template-columns: repeat(2, 1fr);

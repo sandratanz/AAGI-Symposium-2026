@@ -2,9 +2,10 @@
 title: "Posters Theme 3"
 ---
 
-Poster details for theme 3 will be published soon.
+## Posters
 
-## Resources
-
-- Poster list: Coming soon
-- Downloads: Coming soon
+<div class="poster-gallery">
+  <div class="poster-card">
+    <p>No posters have been submitted for this theme yet.</p>
+  </div>
+</div>
