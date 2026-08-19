@@ -4,7 +4,7 @@ title: "Posters"
 
 
 
-<!-- Add this banner section right below your main intro text -->
+<!-- banner section -->
 ::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
 
 ### Poster Submission Portal
@@ -49,15 +49,15 @@ Please make sure you upload your poster to the folder corresponding to the theme
 <div class="poster-upload-buttons">
 [Poster - Theme 1 - Upload ↗](https://adelaideuniversity.box.com/s/tyucggov6fpm3tf0eq6c4dl5h57mzeqc){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Poster - Theme 2 - Upload ↗](https://adelaideuniversity.box.com/s/eoauyw1tgrujeva9xmke32uc75et2b9w){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Poster Theme 2 - Upload ↗](https://adelaideuniversity.box.com/s/eoauyw1tgrujeva9xmke32uc75et2b9w){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Poster - Theme 3 - Upload ↗](https://adelaideuniversity.box.com/s/byv4l5antrfofs9q8lb59voe2hhosmjy){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Poster Theme 3 - Upload ↗](https://adelaideuniversity.box.com/s/byv4l5antrfofs9q8lb59voe2hhosmjy){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Poster - Theme 4 - Upload ↗](https://adelaideuniversity.box.com/s/yc612gta9lt0t5evtnaluunuhd1dr22h){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Poster Theme 4 - Upload ↗](https://adelaideuniversity.box.com/s/yc612gta9lt0t5evtnaluunuhd1dr22h){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Poster - Theme 5 - Upload ↗](https://adelaideuniversity.box.com/s/edcw1dea7outwklh9s1ofmigtod7xi6l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Poster Theme 5 - Upload ↗](https://adelaideuniversity.box.com/s/edcw1dea7outwklh9s1ofmigtod7xi6l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Poster - Theme 6 - Upload ↗](https://adelaideuniversity.box.com/s/imnvh58ug8wqa5v82dbjyp9ftkdn8tkz){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Poster Theme 6 - Upload ↗](https://adelaideuniversity.box.com/s/imnvh58ug8wqa5v82dbjyp9ftkdn8tkz){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 </div>
 
 
@@ -113,32 +113,32 @@ Poster awards will be presented at the conclusion of the symposium. Further deta
 <div class="card-grid">
 
 <a class="nav-card" href="posters-theme-1.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters Theme 1">
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 1">
 <h3>Posters Theme 1</h3>
 <p>Poster listings and resources for theme 1.</p>
 </a>
 <a class="nav-card" href="posters-theme-2.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters Theme 2">
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 2">
 <h3>Posters Theme 2</h3>
 <p>Poster listings and resources for theme 2.</p>
 </a>
 <a class="nav-card" href="posters-theme-3.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters Theme 3">
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 3">
 <h3>Posters Theme 3</h3>
 <p>Poster listings and resources for theme 3.</p>
 </a>
 <a class="nav-card" href="posters-theme-4.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters Theme 4">
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 4">
 <h3>Posters Theme 4</h3>
 <p>Poster listings and resources for theme 4.</p>
 </a>
 <a class="nav-card" href="posters-theme-5.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters Theme 5">
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 5">
 <h3>Posters Theme 5</h3>
 <p>Poster listings and resources for theme 5.</p>
 </a>
 <a class="nav-card" href="posters-theme-6.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters Theme 6">
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 6">
 <h3>Posters Theme 6</h3>
 <p>Poster listings and resources for theme 6.</p>
 </a> </div>
