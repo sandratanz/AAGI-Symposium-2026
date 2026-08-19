@@ -6,50 +6,78 @@ title: "Posters"
 
 <!-- Add this banner section right below your main intro text -->
 ::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+
 ### Poster Submission Portal
-Are you a presenter? Submit your high-resolution poster files using the secure Google Form portal. 
+Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder. 
 
-<!-- **Poster Format:** A0 Portrait (841 mm wide × 1189 mm high), PDF.
 
-**File Name:** Please use the following format for your poster file name: `Theme[1-6]_LastName_Initial.pdf` (e.g., Theme1_Smith_J.pdf). -->
-
-**Deadline:** 20th October 2027.
+**Deadline:** 2 October 2026.
 <br>
 
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-dark .btn-lg role="button" target="_blank"} -->
-[Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Submit Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
 :::
 
 
 ## Poster Guidelines
-We encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight achievements, and foster discussion, collaboration, and networking across the AAGI community.
+We encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight your work, and foster discussion and collaboration across the AAGI community.
 
-### Submission 
+### Poster submission 
 
-**Deadline:** **20 October 2027**
+**Submission deadline: 2 October 2026**
 
-Please submit your poster by this date to allow sufficient time for printing in Perth and ensure it is ready for display at the symposium.
+This deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.
 
-**File format:** PDF
+### Submission process
 
-**File naming:** Please use the following format: [2026AAGISymposium_poster_LastName_Initial.pdf]{style="color: navy;"}
+Poster submission involves **two steps:**
+
+**1. Complete the Google Form**
+
+The Google form collects your poster details and a few questions about the poster showcase. A confirmation email will be sent to the email address you provide.
+
+**2. Upload your poster to Box**
+
+Use the Box link corresponding to your selected poster theme to upload your PDF poster. You do not need a Box account to upload a file.
+
+Please make sure you upload your poster to the folder corresponding to the theme selected in the Google Form.
+
+<div class="poster-upload-buttons">
+[Poster - Theme 1 - Upload ↗](https://adelaideuniversity.box.com/s/tyucggov6fpm3tf0eq6c4dl5h57mzeqc){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Poster - Theme 2 - Upload ↗](https://adelaideuniversity.box.com/s/eoauyw1tgrujeva9xmke32uc75et2b9w){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Poster - Theme 3 - Upload ↗](https://adelaideuniversity.box.com/s/byv4l5antrfofs9q8lb59voe2hhosmjy){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Poster - Theme 4 - Upload ↗](https://adelaideuniversity.box.com/s/yc612gta9lt0t5evtnaluunuhd1dr22h){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Poster - Theme 5 - Upload ↗](https://adelaideuniversity.box.com/s/edcw1dea7outwklh9s1ofmigtod7xi6l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Poster - Theme 6 - Upload ↗](https://adelaideuniversity.box.com/s/imnvh58ug8wqa5v82dbjyp9ftkdn8tkz){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+</div>
+
+
+
+### File requirements
+- **Format:** PDF 
+- **File name:** Please use the following format: [PosterThemeX_SurnameFirstName.pdf]{style="color: navy;"}
+    - Example: [PosterTheme1_SmithJohn.pdf]{style="color: navy;"}
+
+- **Number of posters:** One poster per participant. Collaborative group posters are encouraged where a project has multiple contributors. 
+
 
 <!-- - Example: `2026AAGISymposium_poster_Smith_J.pdf` -->
 
-- Example: [2026AAGISymposium_poster_Smith_J.pdf]{style="color: navy;"}
+<!-- - Example: [2026AAGISymposium_poster_Smith_J.pdf]{style="color: navy;"} --> 
 
 
-### Submission portal
-Please submit a PDF version of your poster via the secure Google Form portal.
-During submission, you will be asked to select a topic area. This will help us organise posters into related themes and support the planning of the poster session.
-
-
-### Poster limit
-Participants are generally limited to one poster per person. Where a project involves multiple contributors, collaborative group posters are encouraged.
 
 ### Poster content
-Posters should clearly communicate the key aspects of your work, including:
+Posters should clearly communicate:
 
 - The research, project, tool, or area of work being presented.
 - The problem, question, or objective being addressed.
@@ -59,20 +87,24 @@ Posters should clearly communicate the key aspects of your work, including:
 
 ### Poster format
 
-- **Size:** A0 (841 mm wide × 1189 mm high)
+- **Size:** A0 (841 × 1189 mm)
 - **Orientation:** Portrait
 
 Posters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.
 
 ### QR code
-Each poster must include a QR code placeholder, which will be used to link to a digital version of the poster. A minimum QR code size of 2 × 2 cm is recommended to ensure it can be scanned easily.
+Please include a **QR code placeholder** on your poster. This will be used to link to the digital version of your poster on the symposium website.
+A minimum size of **2 × 2 cm** is recommended to ensure the QR code can be scanned easily.
+
 
 ### Short poster presentations
-PhD students will be required to deliver a brief 3–5 minute “elevator pitch” alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session.
+PhD students will be invited to give a brief **3-5 minute “elevator pitch”** alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session.
 Subject to available time, researchers who opt in may also be invited to give a short poster presentation.
+
 
 ### Poster awards
 Poster awards will be presented at the conclusion of the symposium. Further details regarding award categories, judging criteria, and assessment processes will be provided closer to the event.
+
 
 
 
