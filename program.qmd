@@ -18,9 +18,10 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **10:30 - 11:00** | _Workshop cont._| ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
 | **11:00 - 13:00** | _Workshop cont._ | **Workshops 1a / 1b** | **Workshops 2a / 2b** | **Workshop 3** |
 | **13:00 - 14:00** | _Workshop cont._ | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
-| **14:00 - 15:30** | _Workshop cont._ | **Industry/Grower Panel** | **Talks: ANU/Guests** | 🥡 Take-away Lunch |
+| **14:00 - 15:30** | _Workshop cont._ | **Industry/Government/Growers** | **Talks: ANU/Guests** | 🥡 Take-away Lunch |
 | **15:30 - 16:00** | _Workshop cont._ | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 18:30** | | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
+| **16:00 - 17:30** | _Free time_ | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
+| **17:30 - 18:30** | _Free time_ | 📊 **Poster Session** | _Free time_ | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
 
 ## Daily Schedule
@@ -45,9 +46,9 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **11:00 - 13:00** | **Workshop 1a** <br> *Stream A session.* | Murray Room |
 | | **Workshop 1b** <br> *Stream B parallel session.* | *TBA* |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
-| **14:00 - 15:30** | **Industry/Grower Panel** | Murray Room |
+| **14:00 - 15:30** | **Industry/Government/Growers** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 18:00** | 📊 **Poster Session** | Murray Room |
+| **16:00 - 18:30** | 📊 **Poster Session** | Murray Room |
 
 ### Day 2: Wednesday 11/11
 
@@ -60,7 +61,8 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: ANU / Guests** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 18:30** | 👭 **HDR Networking Session** | Murray Room |
+| **16:00 - 17:30** | 👭 **HDR Networking Session** | Murray Room |
+| **17:30 - 18:30** | *Free time* | |
 | **18:30 - 20:30** | 🍽️ **Symposium Dinner** | *TBA (Offsite Venue)* |
 
 ### Day 3: Thursday 12/11
