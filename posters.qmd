@@ -11,14 +11,14 @@ title: "Posters"
 Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder. 
 
 
-**Deadline:** 2 October 2026.
+**Deadline:** 20 October 2026.
 <br>
 
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-dark .btn-lg role="button" target="_blank"} -->
 [Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Submit Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
 :::
 
@@ -40,8 +40,16 @@ Poster submission involves **two steps:**
 
 The Google form collects your poster details and a few questions about the poster showcase. A confirmation email will be sent to the email address you provide.
 
+[Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+
 **2. Upload your poster to Box**
 
+Use the Box link to upload your PDF poster. You do not need a Box account to upload a file.
+
+[Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+<!-- 
 Use the Box link corresponding to your selected poster theme to upload your PDF poster. You do not need a Box account to upload a file.
 
 Please make sure you upload your poster to the folder corresponding to the theme selected in the Google Form.
@@ -58,14 +66,15 @@ Please make sure you upload your poster to the folder corresponding to the theme
 [Poster Theme 5 - Upload ↗](https://adelaideuniversity.box.com/s/edcw1dea7outwklh9s1ofmigtod7xi6l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
 [Poster Theme 6 - Upload ↗](https://adelaideuniversity.box.com/s/imnvh58ug8wqa5v82dbjyp9ftkdn8tkz){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
-</div>
+</div> -->
 
 
 
 ### File requirements
 - **Format:** PDF 
-- **File name:** Please use the following format: [PosterThemeX_SurnameFirstName.pdf]{style="color: navy;"}
-    - Example: [PosterTheme1_SmithJohn.pdf]{style="color: navy;"}
+
+- **File name:** Please use the following format: [Poster_SurnameFirstName.pdf]{style="color: navy;"}
+    - Example: [Poster_SmithJohn.pdf]{style="color: navy;"}
 
 - **Number of posters:** One poster per participant. Collaborative group posters are encouraged where a project has multiple contributors. 
 
